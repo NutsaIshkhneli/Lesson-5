@@ -233,7 +233,28 @@
 
 }
 
+
 .boxes-5 {
+
+    float: left;
+	width: 352px;
+	background-color: #F8F8F8;
+	margin-left: 60px;
+	margin-top: 20px;
+}
+
+
+.boxes-6 {
+
+    float: right;
+	width: 352px;
+	background-color: #F8F8F8;
+	margin-top: 20px;
+}
+
+.boxes-7 {
 	float: left;
 	width: 352px;
+	background-color: #F8F8F8;
+	
 }
