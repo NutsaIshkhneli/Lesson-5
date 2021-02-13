@@ -155,7 +155,7 @@
 
 .boxes2 {
 	width: 1170px;
-	margin: auto; 
+	margin: 0 auto; 
 }
 
 .boxes-2 {
@@ -169,8 +169,8 @@
 	color: #5863F8;
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
-	padding-left: 123px;
-	padding-right: 123px;
+	padding-left: 130px;
+
 }
 
 .img3 {
@@ -191,8 +191,7 @@
 .section2-header2 {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
-	padding-left: 75px;
-	padding-right: 63px;
+	padding-left: 80px;
 	
 }
 
@@ -216,4 +215,25 @@
 	color: #B1B1B1;
 	padding-bottom: 2px;
 
+}
+
+
+.boxes-3 {
+	float: left;
+	width: 352px;
+	background-color: #F8F8F8;
+	margin-left: 60px;
+}
+
+.boxes-4 {
+
+	float: right;
+	width: 352px;
+	background-color: #F8F8F8;
+
+}
+
+.boxes-5 {
+	float: left;
+	width: 352px;
 }
