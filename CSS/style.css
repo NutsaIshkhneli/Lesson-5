@@ -141,7 +141,6 @@
 	content: 'post right away';
 	font-family: 'Poppins', sans-serif;
 	font-size: 42px;
-
 }
 
 .title-2 {
@@ -169,9 +168,51 @@
 	color: #5863F8;
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
+	padding-left: 123px;
+	padding-right: 123px;
 }
 
 .img3 {
     width: 352px;
+
+}
+
+.boxes::after {
+	clear: both;
+}
+
+.boxes2::after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
+
+.section2-header2 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	padding-left: 75px;
+	padding-right: 63px;
+	
+}
+
+
+.section2-p1 {
+
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	padding-left: 63px;
+	padding-right: 63px;
+	color: #B1B1B1;
+	padding-bottom: 2px;
+	padding-top: 2px;
+
+}
+
+.section2-p2 {
+    font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	padding-left: 40px;
+	color: #B1B1B1;
+	padding-bottom: 2px;
 
 }
